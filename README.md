@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @ChiomaSarah
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript, Java, ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 💼 https://chiomasarah.github.io/Personal-Portfolio-Project/
+👋 Hi, I’m @ChiomaSarah
+
+👀 I’m interested in Software Development
+
+🌱 I’m currently learning JavaScript, Java, ...
+
+💞️ I’m looking to collaborate on ...
+
+📫 How to reach me ...
+
+[💼 Portfolio](https://chiomasarah.github.io/Personal-Portfolio-Project/)
 
 <!---
 ChiomaSarah/ChiomaSarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
