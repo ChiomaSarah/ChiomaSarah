@@ -8,7 +8,7 @@
 
 📫 Find me on [LinkedIn](https://www.linkedin.com/in/sarah-osuji-a5821b121/)
 
-💼 [Portfolio](https://github.com/ChiomaSarah/Personal-Portfolio/)
+💼 [Portfolio](https://chiomasarah.github.io/Personal-Portfolio/)
 
 <!---
 ChiomaSarah/ChiomaSarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
